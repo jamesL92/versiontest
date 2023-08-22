@@ -1,5 +1,5 @@
 package versiontest
 
 func Version() string {
-	return "go-v0.0.0"
+	return "go-v0.0.1"
 }
